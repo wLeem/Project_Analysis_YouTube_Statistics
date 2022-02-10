@@ -12,5 +12,5 @@ that were in the "trending" tab at a certain time.
 ![image](https://github.com/wLeem/Project_Analysis_YouTube_Statistics/blob/master/img/img2.png)
 - The user can filter the dataset according to his criteria and save the resulting selection;
 ![image](https://github.com/wLeem/Project_Analysis_YouTube_Statistics/blob/master/img/img3.png)
-- The user can display pivot tabke or statistical graphs showing various dependencies between the data (which allows building theories or already drawing some conclusions).
+- The user can display pivot table or statistical graphs showing various dependencies between the data (which allows building theories or already drawing some conclusions).
 ![image](https://github.com/wLeem/Project_Analysis_YouTube_Statistics/blob/master/img/img4.png)
